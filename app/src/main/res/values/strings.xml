@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">InvisibleThreatNeutralizer</string>
     <string name="title">Invisible Threat Neutralizer</string>
+    <string name="btn_login">Login</string>
 </resources>
